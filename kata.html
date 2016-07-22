@@ -1,0 +1,30 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <title>Kata</title>
+    <style type="text/css">
+        #pageContainer { position: relative; display: block; margin: 0 0 0 -400px; padding: 0px; left: 50%; width: 800px; border: 1px solid #CCCCCC; background: #EEEEEE; }
+        #kataConsoleOutput { position: relative; display: block; margin: 10px 9px 1em; width: 780px; height: 25em; overflow-y: scroll; border: 1px solid #212121; background: #333333; color: #EEEEEE; }
+        .input-container { position: relative; display: block; margin: 0 9px 1em; width: 780px; }
+        #kataInput { width: 50%; line-height: 1.5em; }
+    </style>
+</head>
+<body>
+    <div id="pageContainer">
+        <div id="kataConsoleOutput"></div>
+        <div class="input-container">
+            <input id="kataInput" type="text" />
+            <button id="kataInputAction">Enter Key</button>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="./vendor/jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="./src/console.controls.js"></script>
+    <script type="text/javascript" src="./src/kata.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            IO.init(kata);
+        });
+    </script>
+</body>
+</html>
