@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9fc8a00-2ca1-4a78-b71c-8cf85f62f34e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/kata.specs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/kata.js" afterPath="$PROJECT_DIR$/src/kata.js" />
     </list>
     <ignored path="Kata-Template-ES5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,37 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="kata.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="kata.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/kata.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="console.controls.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/console.controls.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="e#39#405#0" expanded="false" />
-                <element signature="e#74#151#0" expanded="false" />
-                <element signature="e#204#373#0" expanded="false" />
-                <element signature="e#430#526#0" expanded="false" />
-                <element signature="e#557#696#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kata.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kata.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -69,10 +42,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SpecRunner.html" />
-        <option value="$PROJECT_DIR$/src/kata.js" />
         <option value="$PROJECT_DIR$/spec/kata.specs.js" />
         <option value="$PROJECT_DIR$/src/console.controls.js" />
         <option value="$PROJECT_DIR$/kata.html" />
+        <option value="$PROJECT_DIR$/src/kata.js" />
       </list>
     </option>
   </component>
@@ -241,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1469213598979</updated>
-      <workItem from="1469213600213" duration="3755000" />
+      <workItem from="1469213600213" duration="4174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3755000" />
+    <option name="totallyTimeSpent" value="4174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1400" height="797" extended-state="0" />
@@ -318,14 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kata.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kata.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -336,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/console.controls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="e#39#405#0" expanded="false" />
             <element signature="e#74#151#0" expanded="false" />
@@ -345,6 +310,14 @@
             <element signature="e#430#526#0" expanded="false" />
             <element signature="e#557#696#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kata.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

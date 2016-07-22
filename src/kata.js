@@ -2,6 +2,9 @@ function kata(input) {
   return fizzBuzz(input);
 }
 
+// NOTE: To manually send to console output:
+// IO.output('information to output');
+
 function fizzBuzz(num) {
   num = parseInt(num);
 
